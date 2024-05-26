@@ -1,4 +1,4 @@
-# Welcome
+# 🦉 Welcome
 Welcome, this repository is a storage of exercises solved with different languages, <br>
 for the purpose of entertainment and challenge
 
