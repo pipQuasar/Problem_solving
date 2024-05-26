@@ -5,17 +5,18 @@ for the purpose of entertainment and challenge.
 ***Project structure:***
 ``` 
 Problem_solving/
+  │
   ├── Cpp_solving/
   │   ├──README.md
   │   ├──ejercicio_01.py
   │   ├──ejercicio_02.py
-  │   ├──...
+  │   └──...
   │
   ├── Python_solvinf/
   │   ├──README.md
   │   ├──ejercicio_01.py
   │   ├──ejercicio_02.py
-  │   ├──...
+  │   └──...
   │
   ├── LICENSE
   │
