@@ -2,7 +2,7 @@
 Welcome, this repository is a storage of exercises solved with different languages, <br>
 for the purpose of entertainment and challenge
 
-""" Structure
+``` Structure
 Problem_solving/
   ├── Cpp_solving/
   │   ├──README.md
@@ -21,7 +21,7 @@ Problem_solving/
   ├── README.md
   │
   └── setup.py
-"""
+```
 
 # 🌐Contribution
 Problem_solving is an open source project and we welcome all contributions. If you want to collaborate, follow these steps:
