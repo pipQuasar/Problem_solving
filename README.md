@@ -1,6 +1,6 @@
 # 🦉 Welcome
 Welcome, this repository is a storage of exercises solved with different languages, <br>
-for the purpose of entertainment and challenge
+for the purpose of entertainment and challenge.
 
 ***Project structure:***
 ``` 
