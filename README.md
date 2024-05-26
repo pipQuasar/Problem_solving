@@ -12,7 +12,7 @@ Problem_solving/
   │   ├──ejercicio_02.py
   │   └──...
   │
-  ├── Python_solvinf/
+  ├── Python_solving/
   │   ├──README.md
   │   ├──ejercicio_01.py
   │   ├──ejercicio_02.py
