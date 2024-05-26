@@ -2,7 +2,8 @@
 Welcome, this repository is a storage of exercises solved with different languages, <br>
 for the purpose of entertainment and challenge
 
-``` Structure
+Project structure:
+``` 
 Problem_solving/
   ├── Cpp_solving/
   │   ├──README.md
