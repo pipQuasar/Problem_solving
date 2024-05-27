@@ -8,8 +8,8 @@ Problem_solving/
   │
   ├── Cpp_solving/
   │   ├──README.md
-  │   ├──ejercicio_01.py
-  │   ├──ejercicio_02.py
+  │   ├──ejercicio_01.cpp
+  │   ├──ejercicio_02.cpp
   │   └──...
   │
   ├── Python_solving/
