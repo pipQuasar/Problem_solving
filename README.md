@@ -8,14 +8,14 @@ Problem_solving/
   │
   ├── Cpp_solving/
   │   ├──README.md
-  │   ├──ejercicio_01.cpp
-  │   ├──ejercicio_02.cpp
+  │   ├──exercise_01.cpp
+  │   ├──exercise_02.cpp
   │   └──...
   │
   ├── Python_solving/
   │   ├──README.md
-  │   ├──ejercicio_01.py
-  │   ├──ejercicio_02.py
+  │   ├──exercise_01.py
+  │   ├──exercise_02.py
   │   └──...
   │
   ├── LICENSE
