@@ -10,6 +10,7 @@ void request_int_data(string message, int &value){
     cin >> value;
 }
 
+// Now i create the resolutive function
 int how_many_days(){
     int year = 0, month = 0, days = 0;
     request_int_data("Insert a year: ", year);
@@ -47,8 +48,9 @@ int how_many_days(){
 }
 
 int main () {
+    // Create a variable that contain the days
     int days = how_many_days();
-
+    // Show the result
     cout << "The month that you inserted has " << days << " days!";
  return 0;
 }
