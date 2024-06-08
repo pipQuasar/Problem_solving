@@ -8,6 +8,11 @@
 #include <iostream>
 using namespace std;
 
+void request_int_data(string message, int &value){
+    cout << message;
+    cin >> value;
+}
+
 int main () {
  
  return 0;
