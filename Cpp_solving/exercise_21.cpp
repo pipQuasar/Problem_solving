@@ -8,7 +8,7 @@
 #include <iostream>
 using namespace std;
 
-void request_int_data(string message, float &value){
+void request_float_data(string message, float &value){
     cout << message;
     cin >> value;
 }
@@ -55,7 +55,7 @@ void set_of_values(){
     int averager = 0, sum_of_values = 0;
 
 
-    request_int_data("Enter a value: ", value);
+    request_float_data("Enter a value: ", value);
     if (value == 0) return;
     else{
         while (value != 0)
@@ -65,7 +65,7 @@ void set_of_values(){
             find_maximum_negative(value, maximum_negative);
             find_minimum_positive(value, minimum_positive);
             minimum_value_within(value, minimum_within);
-            request_int_data("Enter a value: ", value);
+            request_float_data("Enter a value: ", value);
         }
         show_results(maximum_negative, minimum_positive, minimum_within, average_of_all_value(sum_of_values,averager));
     }
