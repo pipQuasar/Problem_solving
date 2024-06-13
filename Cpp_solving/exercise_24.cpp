@@ -13,6 +13,24 @@
 #include <iostream>
 using namespace std;
 
+
+void request_int_data(string message, int &value){
+    cout << message;
+    cin >> value;
+}
+
+int how_many_zeros(int num, int &counter){
+    if (num == 0) counter ++;
+    return counter;
+}
+
+
+
+void _167_integers(int _167_values){
+    
+}
+
+
 int main () {
  
  return 0;
